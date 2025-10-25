@@ -42,12 +42,12 @@ The project is divided into several repositories for modular development:
 
 | Name | Role | GitHub |
 |------|------|---------|
-| [Teammate 1] | Project Manager | [@username] |
-  [Teammate 2] | Business Analyst | [@username] |
-| [Teammate 3] | Frontend Developer | [@username] |
-| [Teammate 4] | Backend Developer | [@username] |
-| [Teammate 5] | Designer | [@username] |
-| [Teammate 6] | QA | [@username] |
+| Mihajlo Guglak | Project Manager | [@username] |
+| Elizaveta Yefremenko | Business Analyst | [@username] |
+| Lilia Guglak | Frontend Developer | [@username] |
+| Polina Snihurska | Backend Developer | [@username] |
+| Anna Leonova | Designer | [@username] |
+| Iryna Lemchyk | QA | [@username] |
 
 ---
 

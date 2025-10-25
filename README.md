@@ -23,9 +23,9 @@ The project is divided into several repositories for modular development:
 |------------|-------------|-------------|
 |  **Frontend** | User interface for customers and admins | [frontend](https://github.com/AIProjectGroup/Frontend) |
 |  **Backend** | API and business logic | [backend](https://github.com/AIProjectGroup/Backend) |
-|  **AI Engine** | Core artificial intelligence models | [ai-engine](https://github.com/YourOrg/ai-engine) |
-|  **Database** | Database schemas and migration scripts | [database](https://github.com/YourOrg/database) |
-|  **Docs** | Documentation and project planning | [docs](https://github.com/YourOrg/docs) |
+|  **AI Engine** | Core artificial intelligence models | [ai-engine](https://github.com/AIProjectGroup/AI_Engine) |
+|  **Database** | Database schemas and migration scripts | [database](https://github.com/AIProjectGroup/Database) |
+|  **Docs** | Documentation and project planning | [docs](https://github.com/AIProjectGroup/Docs) |
 
 ---
 
